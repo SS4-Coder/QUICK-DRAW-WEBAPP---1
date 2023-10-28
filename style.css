@@ -1,0 +1,26 @@
+body{
+background-color: aqua;
+}
+h1{
+    color:brown;
+    background-color:rgb(246, 243, 238);
+     font-size: 40px
+    }
+    #show_sketch{
+    float: right;
+    }
+#score{
+    font-size:40px;
+    color: rgb(199, 33, 130);
+    margin-left: 75px;
+    }
+#timer{
+font-size:40px;
+color:blueviolet;
+float: right;
+margin-right: 110px;
+}
+#sketch_name{
+color:rgb(200, 17, 182);
+font-size:30px;
+}
